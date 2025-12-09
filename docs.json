@@ -3,11 +3,11 @@
   "theme": "mint",
   "name": "Bank Statement Mortgage Knowledge Base",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#2563EB",
+    "light": "#3B82F6",
+    "dark": "#1D4ED8"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/favicon.png",
   "navigation": {
     "tabs": [
       {
@@ -86,14 +86,14 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/cameron-light.png",
+    "dark": "/logo/cameron-dark.png"
   },
   "navbar": {
     "links": [],
     "primary": {
       "type": "button",
-      "label": "Get Started",
+      "label": "Go to AI Agent",
       "href": "https://scribbe.ai/"
     }
   },
