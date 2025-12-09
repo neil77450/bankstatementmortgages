@@ -1,0 +1,103 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Bank Statement Mortgage Knowledge Base",
+  "colors": {
+    "primary": "#16A34A",
+    "light": "#07C983",
+    "dark": "#15803D"
+  },
+  "favicon": "/favicon.svg",
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Knowledge Base",
+        "groups": [
+          {
+            "group": "Getting Started",
+            "pages": [
+              "getting-started/what-is-bank-statement-mortgage",
+              "getting-started/who-qualifies",
+              "getting-started/bank-statement-vs-traditional"
+            ]
+          },
+          {
+            "group": "Income Calculation",
+            "pages": [
+              "income-calculation/how-income-is-calculated",
+              "income-calculation/personal-vs-business-statements",
+              "income-calculation/expense-factor-explained",
+              "income-calculation/12-month-vs-24-month-programs",
+              "income-calculation/handling-multiple-accounts",
+              "income-calculation/deposits-to-exclude"
+            ]
+          },
+          {
+            "group": "Qualification Requirements",
+            "pages": [
+              "qualification/credit-score-requirements",
+              "qualification/down-payment-ltv-guidelines",
+              "qualification/debt-to-income-ratio",
+              "qualification/reserve-requirements",
+              "qualification/property-types-allowed",
+              "qualification/occupancy-requirements"
+            ]
+          },
+          {
+            "group": "Documentation",
+            "pages": [
+              "documentation/required-documents-checklist",
+              "documentation/bank-statement-formatting",
+              "documentation/cpa-letters-profit-loss",
+              "documentation/business-license-formation"
+            ]
+          },
+          {
+            "group": "Lender Programs",
+            "pages": [
+              "lender-programs/program-comparison-overview",
+              "lender-programs/rate-factors-pricing-adjustments",
+              "lender-programs/loan-amount-limits",
+              "lender-programs/interest-only-options",
+              "lender-programs/asset-depletion-alternatives"
+            ]
+          },
+          {
+            "group": "Special Scenarios",
+            "pages": [
+              "special-scenarios/newly-self-employed",
+              "special-scenarios/seasonal-income-businesses",
+              "special-scenarios/multiple-business-owners",
+              "special-scenarios/foreign-nationals",
+              "special-scenarios/investment-properties"
+            ]
+          },
+          {
+            "group": "Reference",
+            "pages": [
+              "reference/glossary"
+            ]
+          }
+        ]
+      }
+    ],
+    "global": {
+      "anchors": []
+    }
+  },
+  "logo": {
+    "light": "/logo/light.svg",
+    "dark": "/logo/dark.svg"
+  },
+  "navbar": {
+    "links": [],
+    "primary": {
+      "type": "button",
+      "label": "Get Started",
+      "href": "https://scribbe.ai/"
+    }
+  },
+  "footer": {
+    "socials": {}
+  }
+}
